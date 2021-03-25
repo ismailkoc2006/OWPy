@@ -1,1 +1,2 @@
 # OWPy
+An open-source Python application intended to help in empirical analysis of the Long Short-Term Memory neural networks with the data that could be in overlapping windows form. The batch size of the model is variant considering the size of each window processed. This approach has revealed better statistical performance criteria results and eliminated the trials to find the best batch size value
