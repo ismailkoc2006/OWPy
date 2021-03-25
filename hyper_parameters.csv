@@ -1,0 +1,2 @@
+index_column,target_column,training_percent,validation_percent,look_back,prediction_horizon,output_dimension,number_of_neurons,learning_rate,optimizer_step_size,gamma,epochs,patience,plot_predictions_tail,data_file
+0,12,80,10,2,1,1,256,0.001,20,0.9,500,35,400,../data/AirlineFlightSales.csv
